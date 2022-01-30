@@ -2,7 +2,7 @@
 title: "Reward modulates cortical representations of action"
 collection: publications
 permalink: /publication/2021-01-04-Reward-modulates cortical-representations-of-action
-excerpt: "We find that rewards improve skilled performance and enhance action representations in the frontal cortex.<br/><img src='/images/dsp_scanner_img.png', align='middle'>"
+excerpt: "We find that rewards improve skilled performance and enhance action representations in the frontal cortex.<br/><img src='/images/dsp_scanner_img.png'>"
 date: 2021-01-04
 venue: 'Neuroimage'
 paperurl: 'https://doi.org/10.1016/j.neuroimage.2020.117708'
