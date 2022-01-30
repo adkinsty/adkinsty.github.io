@@ -2,7 +2,7 @@
 title: "Rewards interact with explicit knowledge to enhance skilled motor performance"
 collection: publications
 permalink: /publication/2020-06-16-Rewards-interact-with-explicit-knowledge-to-enhance-skilled-motor-performance
-excerpt: 'We find that rewards improve skilled performance, especially when people are able to explictly plan their movements in advance.<br/><img src='/images/mot_dsp_img.png'>'
+excerpt: "We find that rewards improve skilled performance, especially when people are able to explictly plan their movements in advance.<br/><img src='/images/mot_dsp_img.png'>"
 date: 2020-06-16
 venue: 'Journal of Neurophysiology'
 paperurl: 'https://doi.org/10.1152/jn.00575.2019'
