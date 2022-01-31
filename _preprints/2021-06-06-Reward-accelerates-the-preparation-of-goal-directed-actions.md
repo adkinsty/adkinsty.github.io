@@ -1,7 +1,7 @@
 ---
 title: "Reward accelerates the preparation of goal-directed actions"
 collection: preprints
-permalink: /preprints/2021-06-06-Reward accelerates-the-preparation-of-goal-directed-actions
+permalink: /preprints/2021-06-06-Reward-accelerates-the-preparation-of-goal-directed-actions
 excerpt: "We find that people prepare goal-directed actions more quickly when they are motivated by reward. <br/><img src='/images/mot_simon_img.png'>"
 date: 2021-06-06
 venue: 'Psychonomic Bulletin & Review'
