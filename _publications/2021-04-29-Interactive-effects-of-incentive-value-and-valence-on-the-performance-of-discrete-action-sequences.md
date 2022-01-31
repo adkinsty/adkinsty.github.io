@@ -1,7 +1,7 @@
 ---
 title: "Interactive effects of incentive value and valence on the performance of discrete action sequences"
 collection: publications
-permalink: /publication/2021-04-29-Interactive-effects-of-incentive-value-and-valence-on-the-performance-of-discrete-action-sequences
+permalink: /publications/2021-04-29-Interactive-effects-of-incentive-value-and-valence-on-the-performance-of-discrete-action-sequences
 excerpt: "We find that punishment and reward have dissociable effects on skill learning that are not due to loss aversion.<br/><img src='/images/mot_dsp_img.png'>"
 date: 2021-04-29
 venue: 'Scientific Reports'
