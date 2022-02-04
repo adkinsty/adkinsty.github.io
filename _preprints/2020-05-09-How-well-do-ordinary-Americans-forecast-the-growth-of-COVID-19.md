@@ -2,7 +2,7 @@
 title: "How well did people forecast the spread of COVID-19?"
 collection: preprints
 permalink: /preprints/2020-05-09-How-well-do-ordinary-Americans-forecast-the-growth-of-COVID-19.md
-excerpt: "We found that people did not accurately forecast the spread of COVID-19. <br/><img src='/images/forecasting.png'>"
+excerpt: "We found that people forecasted COVID-19 more accurately using tables than graphs of historical data. <br/><img src='/images/forecasting.png'>"
 date: 2020-05-19
 venue: 'PsyArXiv'
 paperurl: 'https://psyarxiv.com/2d5r9/'
