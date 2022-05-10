@@ -10,8 +10,8 @@ main:
   - title: "CV"
     url: /files/adkinsty_cv.pdf
 
-#   - title: "Portfolio"
-#     url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
     
 #   - title: "Talks"
 #     url: /talks/    
